@@ -1,0 +1,13 @@
+{
+    "name": "boxpaly/yii2-wxsdk",
+    "authors": [
+        {
+            "name": "boxplay",
+            "email": "903199865@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "yiisoft/yii2": "^2.0@dev"
+    }
+}
