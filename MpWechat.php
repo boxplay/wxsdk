@@ -1,5 +1,5 @@
 <?php
-namespace boxplay\wechat\sdk\wechat\sdk;
+namespace boxplay\wechat\sdk;
 
 class MpWechat{
 	public function test(){
