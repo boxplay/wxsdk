@@ -1,5 +1,5 @@
 <?php
-nameSpace bxopaly\wechat\sdk;
+namespace bxopaly\wechat\sdk;
 
 class MpWechat{
 	public function test(){
